@@ -56,7 +56,7 @@ TOKEN_FIELD_NAMES = {
 
 TOKEN_LABELS = {
     "llama": "Llama API Token",
-    "openai": "OpenAI API Key",
+    "openai": "OpenAI Platform API Key",
     "gemini": "Google Gemini API Key",
     "openrouter": "OpenRouter API Key",
     "anthropic": "Anthropic API Key",

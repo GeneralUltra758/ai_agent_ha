@@ -24,7 +24,7 @@ If you encounter issues:
 
 1. Check this troubleshooting guide for common solutions
 2. Enable debug logs (see below) to get detailed information
-3. Search [existing issues](https://github.com/sbenodiz/ai_agent_ha/issues) to see if your problem has been reported
+3. Search [existing issues](https://github.com/GeneralUltra758/ai_agent_ha/issues) to see if your problem has been reported
 4. If needed, create a new issue with detailed information and logs
 
 ## Enabling Debug Logs
@@ -373,8 +373,8 @@ When reporting issues, please include:
 
 ### Where to Report
 
-- **Bugs**: [GitHub Issues](https://github.com/sbenodiz/ai_agent_ha/issues)
-- **Questions**: [GitHub Discussions](https://github.com/sbenodiz/ai_agent_ha/discussions)
+- **Bugs**: [GitHub Issues](https://github.com/GeneralUltra758/ai_agent_ha/issues)
+- **Questions**: [GitHub Discussions](https://github.com/GeneralUltra758/ai_agent_ha/discussions)
 - **Security Issues**: See [Security Policy](../SECURITY.md)
 
 ### Issue Template

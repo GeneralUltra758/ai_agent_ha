@@ -4,7 +4,7 @@ A powerful Home Assistant custom integration that connects your Home Assistant i
 
 ## 🚀 Quick Install
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=sbenodiz&repository=ai_agent_ha&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=GeneralUltra758&repository=ai_agent_ha&category=integration)
 
 Click the button above to install AI Agent HA directly through HACS, or see the [detailed installation instructions](#-installation) below.
 
@@ -99,7 +99,8 @@ For detailed dashboard creation documentation, see: [Dashboard Creation Guide](d
 
 ### OpenAI
 - **Models**: All available models are loaded dynamically.
-- **Setup**: Get API key from [OpenAI Platform](https://platform.openai.com/api-keys)
+- **Setup**: An **OpenAI Platform API key** is required. Get one from the [OpenAI Platform](https://platform.openai.com/api-keys) (project keys are supported).
+- **Billing**: OpenAI API usage is billed separately from ChatGPT subscriptions. A ChatGPT Plus/Pro/Business subscription alone cannot be used as an API key or as API credits.
 - During configuration, you can optionally set a custom Base URL (e.g.,    
  for proxies or regional endpoints). Leave it blank to use the official default.      
 - __Note__ If you need a model not listed, select “Custom...” and type the exact model ID.                                                                            
@@ -164,7 +165,7 @@ Use the [Quick Install button](#-quick-install) at the top of this README for th
 2. Click on "Integrations"
 3. Click the three dots in the top right corner
 4. Select "Custom repositories"
-5. Add this repository: `https://github.com/sbenodiz/ai_agent_ha`
+5. Add this repository: `https://github.com/GeneralUltra758/ai_agent_ha`
 6. Select "Integration" as the category
 7. Click "Add"
 8. Find "AI Agent HA" in the integration list
@@ -176,7 +177,7 @@ Use the [Quick Install button](#-quick-install) at the top of this README for th
 
 ### Manual Installation
 
-1. Download the latest release from the [releases page](https://github.com/sbenodiz/ai_agent_ha/releases)
+1. Download the latest release from the [releases page](https://github.com/GeneralUltra758/ai_agent_ha/releases)
 2. Extract the files
 3. Copy the `custom_components/ai_agent_ha` folder to your Home Assistant `custom_components` directory
 4. Restart Home Assistant
@@ -393,9 +394,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 - **Troubleshooting**: [Troubleshooting Guide](docs/TROUBLESHOOTING.md) - Common issues and solutions
-- **Issues**: [GitHub Issues](https://github.com/sbenodiz/ai_agent_ha/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/sbenodiz/ai_agent_ha/discussions)
-- **Documentation**: [Wiki](https://github.com/sbenodiz/ai_agent_ha/wiki)
+- **Issues**: [GitHub Issues](https://github.com/GeneralUltra758/ai_agent_ha/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/GeneralUltra758/ai_agent_ha/discussions)
+- **Documentation**: [Wiki](https://github.com/GeneralUltra758/ai_agent_ha/wiki)
 
 ## 🙏 Acknowledgments
 

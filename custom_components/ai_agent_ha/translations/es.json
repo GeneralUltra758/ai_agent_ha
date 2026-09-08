@@ -16,7 +16,7 @@
                 "description": "Configura tus credenciales de API y modelo de {provider}",
                 "data": {
                     "llama_token": "Token de la API de Llama",
-                    "openai_token": "Clave de la API de OpenAI",
+                    "openai_token": "Clave de API de OpenAI Platform",
                     "gemini_token": "Clave de la API de Google Gemini",
                     "openrouter_token": "Clave de la API de OpenRouter",
                     "model": "Modelo (Opcional)",
@@ -24,7 +24,7 @@
                 },
                 "data_description": {
                     "llama_token": "Introduce tu token de la API de Llama",
-                    "openai_token": "Introduce tu clave de la API de OpenAI",
+                    "openai_token": "Obtén tu clave en OpenAI Platform (platform.openai.com/api-keys). La facturación de la API de OpenAI es independiente de las suscripciones de ChatGPT; ChatGPT Plus/Pro/Business no puede usarse como clave de API ni como créditos de API",
                     "gemini_token": "Introduce tu clave de la API de Google Gemini",
                     "openrouter_token": "Introduce tu clave de la API de OpenRouter",
                     "model": "Elige un modelo predefinido o selecciona 'Personalizado...' para usar un modelo personalizado",
@@ -61,7 +61,7 @@
                 "description": "Actualiza tus credenciales de API y modelo de {provider}",
                 "data": {
                     "llama_token": "Token de la API de Llama",
-                    "openai_token": "Clave de la API de OpenAI",
+                    "openai_token": "Clave de API de OpenAI Platform",
                     "gemini_token": "Clave de la API de Google Gemini",
                     "openrouter_token": "Clave de la API de OpenRouter",
                     "model": "Modelo (Opcional)",
@@ -69,7 +69,7 @@
                 },
                 "data_description": {
                     "llama_token": "Introduce tu token de la API de Llama",
-                    "openai_token": "Introduce tu clave de la API de OpenAI",
+                    "openai_token": "Obtén tu clave en OpenAI Platform (platform.openai.com/api-keys). La facturación de la API de OpenAI es independiente de las suscripciones de ChatGPT; ChatGPT Plus/Pro/Business no puede usarse como clave de API ni como créditos de API",
                     "gemini_token": "Introduce tu clave de la API de Google Gemini",
                     "openrouter_token": "Introduce tu clave de la API de OpenRouter",
                     "model": "Elige un modelo predefinido o selecciona 'Personalizado...' para usar un modelo personalizado",
