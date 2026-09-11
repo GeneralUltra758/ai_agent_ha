@@ -16,7 +16,7 @@
         "description": "Gib deinen {token_label} ein und wähle optional ein Model",
         "data": {
           "llama_token": "Llama API Token",
-          "openai_token": "OpenAI API Key",
+          "openai_token": "OpenAI Platform API Key",
           "gemini_token": "Google Gemini API Key",
           "openrouter_token": "OpenRouter API Key",
           "anthropic_token": "Anthropic API Key",
@@ -25,7 +25,7 @@
         },
         "data_description": {
           "llama_token": "Gib deinen Llama API Token ein",
-          "openai_token": "Gib deinen OpenAI API Key ein",
+          "openai_token": "Schlüssel von der OpenAI Platform beziehen (platform.openai.com/api-keys). Die OpenAI-API-Abrechnung ist von ChatGPT-Abonnements getrennt; ChatGPT Plus/Pro/Business kann nicht als API-Schlüssel oder API-Guthaben verwendet werden",
           "gemini_token": "Gib deinen Google Gemini API Key ein",
           "openrouter_token": "Gib deinen OpenRouter API Key ein",
           "anthropic_token": "Gib deinen Anthropic API Key ein",
@@ -64,7 +64,7 @@
         "description": "Aktualisiere deinen {token_label} und Model-Einstellungen",
         "data": {
           "llama_token": "Llama API Token",
-          "openai_token": "OpenAI API Key",
+          "openai_token": "OpenAI Platform API Key",
           "gemini_token": "Google Gemini API Key",
           "openrouter_token": "OpenRouter API Key",
           "anthropic_token": "Anthropic API Key",
@@ -73,7 +73,7 @@
         },
         "data_description": {
           "llama_token": "Gib deinen Llama API Token ein",
-          "openai_token": "Gib deinen OpenAI API Key ein",
+          "openai_token": "Schlüssel von der OpenAI Platform beziehen (platform.openai.com/api-keys). Die OpenAI-API-Abrechnung ist von ChatGPT-Abonnements getrennt; ChatGPT Plus/Pro/Business kann nicht als API-Schlüssel oder API-Guthaben verwendet werden",
           "gemini_token": "Gib deinen Google Gemini API Key ein",
           "openrouter_token": "Gib deinen OpenRouter API Key ein",
           "anthropic_token": "Gib deinen Anthropic API Key ein",

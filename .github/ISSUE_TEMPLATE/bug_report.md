@@ -53,7 +53,7 @@ If applicable, add screenshots or Home Assistant logs to help explain your probl
 
 **Note**: API keys and tokens are automatically sanitized in debug logs and won't be exposed.
 
-For detailed instructions, see our [Troubleshooting Guide](https://github.com/sbenodiz/ai_agent_ha/blob/main/docs/TROUBLESHOOTING.md#collecting-and-sharing-logs).
+For detailed instructions, see our [Troubleshooting Guide](https://github.com/GeneralUltra758/ai_agent_ha/blob/main/docs/TROUBLESHOOTING.md#collecting-and-sharing-logs).
 
 ### Logs:
 ```

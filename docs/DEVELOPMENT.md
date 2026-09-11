@@ -210,7 +210,7 @@ To add a new dashboard template:
 ## Getting Help
 
 If you encounter issues during development:
-- Check the [GitHub Discussions](https://github.com/sbenodiz/ai_agent_ha/discussions)
+- Check the [GitHub Discussions](https://github.com/GeneralUltra758/ai_agent_ha/discussions)
 - Review existing issues and pull requests
 - Ask questions in the discussions area
 
